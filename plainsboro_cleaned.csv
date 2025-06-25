@@ -1,0 +1,148 @@
+Group,Subgroup,Label,Plainsboro_total,Entered_2010_or_later,Entered_2000_to_2009,Entered_before_2000
+,Foreign-born population,Foreign-born population,"12,020","4,947","2,848","4,225"
+CITIZENSHIP,Naturalized citizen,Naturalized citizen,51.2%,6.8%,63.0%,95.2%
+CITIZENSHIP,Not a citizen,Not a citizen,48.8%,93.2%,37.0%,4.8%
+WORLD REGION OF BIRTH OF FOREIGN-BORN,Foreign-born population excluding population born at sea,Foreign-born population excluding population born at sea,"12,020","4,947","2,848","4,225"
+WORLD REGION OF BIRTH OF FOREIGN-BORN,Europe,Europe,8.7%,5.5%,6.0%,14.4%
+WORLD REGION OF BIRTH OF FOREIGN-BORN,Asia,Asia,84.6%,89.4%,85.9%,78.1%
+WORLD REGION OF BIRTH OF FOREIGN-BORN,Africa,Africa,1.9%,1.5%,4.1%,1.0%
+WORLD REGION OF BIRTH OF FOREIGN-BORN,Oceania,Oceania,0.0%,0.0%,0.0%,0.1%
+WORLD REGION OF BIRTH OF FOREIGN-BORN,Latin America,Latin America,3.8%,3.0%,2.4%,5.6%
+WORLD REGION OF BIRTH OF FOREIGN-BORN,Northern America,Northern America,0.9%,0.6%,1.6%,0.8%
+SEX AND AGE,Male,Male,48.3%,47.1%,51.1%,47.8%
+SEX AND AGE,Female,Female,51.7%,52.9%,48.9%,52.2%
+SEX AND AGE,Under 5 years,Under 5 years,1.2%,3.0%,(X),(X)
+SEX AND AGE,5 to 17 years,5 to 17 years,7.0%,13.5%,6.1%,0.0%
+SEX AND AGE,18 to 24 years,18 to 24 years,4.1%,2.9%,4.4%,5.3%
+SEX AND AGE,25 to 44 years,25 to 44 years,42.7%,66.5%,46.4%,12.4%
+SEX AND AGE,45 to 54 years,45 to 54 years,24.2%,8.8%,27.7%,39.7%
+SEX AND AGE,55 to 64 years,55 to 64 years,14.4%,2.3%,12.5%,30.0%
+SEX AND AGE,65 to 74 years,65 to 74 years,3.1%,1.0%,1.9%,6.3%
+SEX AND AGE,75 to 84 years,75 to 84 years,2.2%,1.3%,1.0%,4.0%
+SEX AND AGE,85 years and over,85 years and over,1.1%,0.8%,0.0%,2.2%
+SEX AND AGE,Median age (years),Median age (years),43.6,34.3,44.3,54.4
+RACE AND HISPANIC OR LATINO ORIGIN,One race,One race,97.2%,96.2%,98.5%,97.6%
+RACE AND HISPANIC OR LATINO ORIGIN,White,White,12.8%,8.0%,13.8%,17.6%
+RACE AND HISPANIC OR LATINO ORIGIN,Black or African American,Black or African American,2.4%,1.9%,3.4%,2.4%
+RACE AND HISPANIC OR LATINO ORIGIN,American Indian and Alaska Native,American Indian and Alaska Native,0.0%,0.0%,0.0%,0.0%
+RACE AND HISPANIC OR LATINO ORIGIN,Asian,Asian,81.2%,85.4%,80.4%,76.8%
+RACE AND HISPANIC OR LATINO ORIGIN,Native Hawaiian and Other Pacific Islander,Native Hawaiian and Other Pacific Islander,0.0%,0.0%,0.0%,0.0%
+RACE AND HISPANIC OR LATINO ORIGIN,Some other race,Some other race,0.8%,0.9%,0.8%,0.7%
+RACE AND HISPANIC OR LATINO ORIGIN,Two or more races,Two or more races,2.8%,3.8%,1.5%,2.4%
+RACE AND HISPANIC OR LATINO ORIGIN,Hispanic or Latino origin (of any race),Hispanic or Latino origin (of any race),2.4%,2.5%,1.2%,3.0%
+RACE AND HISPANIC OR LATINO ORIGIN,"White alone, not Hispanic or Latino","White alone, not Hispanic or Latino",12.6%,8.0%,13.8%,17.3%
+HOUSEHOLD TYPE,In married-couple family,In married-couple family,84.0%,86.2%,82.0%,82.8%
+HOUSEHOLD TYPE,In other households,In other households,15.9%,13.8%,18.0%,16.9%
+HOUSEHOLD TYPE,Average  household size,Average  household size,2.70,2.71,2.76,2.65
+HOUSEHOLD TYPE,Average family size,Average family size,3.22,3.29,3.41,3.04
+MARITAL STATUS,Population 15  years and over,Population 15  years and over,"11,236","4,251","2,760","4,225"
+MARITAL STATUS,Never married,Never married,13.7%,17.9%,13.7%,9.5%
+MARITAL STATUS,"Now married, except separated","Now married, except separated",78.3%,79.5%,75.5%,78.9%
+MARITAL STATUS,Divorced or separated,Divorced or separated,4.7%,1.4%,3.2%,8.9%
+MARITAL STATUS,Widowed,Widowed,3.3%,1.3%,7.6%,2.7%
+SCHOOL ENROLLMENT,Population 3 years and over enrolled in school,Population 3 years and over enrolled in school,"1,366","1,072",253,41
+SCHOOL ENROLLMENT,"Nursery school, preschool","Nursery school, preschool",3.2%,4.1%,0.0%,0.0%
+SCHOOL ENROLLMENT,Elementary school (grades K-8),Elementary school (grades K-8),40.3%,47.9%,14.6%,0.0%
+SCHOOL ENROLLMENT,High school (grades 9-12),High school (grades 9-12),18.9%,14.3%,41.5%,0.0%
+SCHOOL ENROLLMENT,College or graduate school,College or graduate school,37.6%,33.8%,43.9%,100.0%
+EDUCATIONAL ATTAINMENT,Population 25 years and over,Population 25 years and over,"10,540","3,989","2,551","4,000"
+EDUCATIONAL ATTAINMENT,Less than high school graduate,Less than high school graduate,1.5%,2.1%,1.3%,1.0%
+EDUCATIONAL ATTAINMENT,High school graduate (includes equivalency),High school graduate (includes equivalency),3.2%,2.8%,2.5%,4.1%
+EDUCATIONAL ATTAINMENT,Some college or associate's degree,Some college or associate's degree,7.1%,2.3%,6.2%,12.5%
+EDUCATIONAL ATTAINMENT,Bachelor's degree,Bachelor's degree,34.2%,35.6%,32.3%,33.9%
+EDUCATIONAL ATTAINMENT,Graduate or professional degree,Graduate or professional degree,54.0%,57.3%,57.5%,48.6%
+LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH,Population 5 years and over,Population 5 years and over,"11,871","4,798","2,848","4,225"
+LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH,English only,English only,10.9%,9.3%,11.8%,12.1%
+LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH,Language other than English,Language other than English,89.1%,90.7%,88.2%,87.9%
+LANGUAGE SPOKEN AT HOME AND ABILITY TO SPEAK ENGLISH,"Speak English less than ""very well""","Speak English less than ""very well""",27.2%,31.4%,27.4%,22.3%
+EMPLOYMENT STATUS,Population 16 years and over,Population 16 years and over,"11,156","4,195","2,736","4,225"
+EMPLOYMENT STATUS,In labor force,In labor force,76.9%,70.5%,80.1%,81.1%
+EMPLOYMENT STATUS,Civilian labor force,Civilian labor force,76.9%,70.5%,80.1%,81.1%
+EMPLOYMENT STATUS,Employed,Employed,73.4%,67.2%,76.7%,77.6%
+EMPLOYMENT STATUS,Unemployed,Unemployed,3.4%,3.4%,3.4%,3.6%
+EMPLOYMENT STATUS,Percent of civilian labor force,Percent of civilian labor force,4.5%,4.8%,4.2%,4.4%
+EMPLOYMENT STATUS,Armed Forces,Armed Forces,0.0%,0.0%,0.0%,0.0%
+EMPLOYMENT STATUS,Not in labor force,Not in labor force,23.1%,29.5%,19.9%,18.9%
+EMPLOYMENT STATUS,Civilian employed population 16 years and over,Civilian employed population 16 years and over,"8,193","2,817","2,099","3,277"
+CLASS OF WORKER,Private wage and salary workers,Private wage and salary workers,90.6%,90.6%,90.3%,90.8%
+CLASS OF WORKER,Government workers,Government workers,6.6%,5.7%,7.6%,6.9%
+CLASS OF WORKER,Self-employed workers in own not incorporated business,Self-employed workers in own not incorporated business,2.8%,3.7%,2.1%,2.3%
+CLASS OF WORKER,Unpaid family workers,Unpaid family workers,0.0%,0.0%,0.0%,0.0%
+OCCUPATION,"Management, business, science, and arts occupations","Management, business, science, and arts occupations",83.8%,86.2%,76.8%,86.2%
+OCCUPATION,Service occupations,Service occupations,2.4%,4.7%,1.5%,1.1%
+OCCUPATION,Sales and office occupations,Sales and office occupations,10.9%,7.0%,17.8%,9.7%
+OCCUPATION,"Natural resources, construction, and maintenance occupations","Natural resources, construction, and maintenance occupations",0.9%,0.6%,0.0%,1.7%
+OCCUPATION,"Production, transportation, and material moving occupations","Production, transportation, and material moving occupations",2.1%,1.6%,3.9%,1.4%
+INDUSTRY,"Agriculture, forestry, fishing and hunting, and mining","Agriculture, forestry, fishing and hunting, and mining",0.0%,0.0%,0.0%,0.0%
+INDUSTRY,Construction,Construction,0.6%,0.5%,0.0%,1.1%
+INDUSTRY,Manufacturing,Manufacturing,11.3%,12.3%,11.3%,10.4%
+INDUSTRY,Wholesale trade,Wholesale trade,3.3%,0.6%,10.4%,1.2%
+INDUSTRY,Retail trade,Retail trade,4.0%,5.0%,2.9%,3.9%
+INDUSTRY,"Transportation and warehousing, and utilities","Transportation and warehousing, and utilities",2.1%,1.3%,2.0%,3.0%
+INDUSTRY,Information,Information,2.8%,2.5%,5.2%,1.4%
+INDUSTRY,"Finance and insurance, and real estate and rental and leasing","Finance and insurance, and real estate and rental and leasing",13.9%,7.8%,14.6%,18.6%
+INDUSTRY,"Professional, scientific, and management, and administrative and waste management services","Professional, scientific, and management, and administrative and waste management services",38.4%,45.0%,33.3%,36.1%
+INDUSTRY,"Educational services, and health care and social assistance","Educational services, and health care and social assistance",19.5%,22.5%,14.8%,20.0%
+INDUSTRY,"Arts, entertainment, and recreation, and accommodation and food services","Arts, entertainment, and recreation, and accommodation and food services",0.5%,0.0%,0.8%,0.7%
+INDUSTRY,Other services (except public administration),Other services (except public administration),1.8%,1.5%,0.5%,2.8%
+INDUSTRY,Public administration,Public administration,1.7%,1.1%,4.0%,0.7%
+"EARNINGS IN THE PAST 12 MONTHS (IN 2023 INFLATION-ADJUSTED DOLLARS) FOR FULL-TIME, YEAR-ROUND WORKERS",Population 16 years and over with earnings,Population 16 years and over with earnings,"7,100","2,404","1,843","2,853"
+"EARNINGS IN THE PAST 12 MONTHS (IN 2023 INFLATION-ADJUSTED DOLLARS) FOR FULL-TIME, YEAR-ROUND WORKERS","$1 to $9,999 or loss","$1 to $9,999 or loss",0.2%,0.0%,0.8%,0.1%
+"EARNINGS IN THE PAST 12 MONTHS (IN 2023 INFLATION-ADJUSTED DOLLARS) FOR FULL-TIME, YEAR-ROUND WORKERS","$10,000 to $14,999","$10,000 to $14,999",0.9%,1.5%,0.4%,0.8%
+"EARNINGS IN THE PAST 12 MONTHS (IN 2023 INFLATION-ADJUSTED DOLLARS) FOR FULL-TIME, YEAR-ROUND WORKERS","$15,000 to $24,999","$15,000 to $24,999",0.6%,0.9%,0.4%,0.5%
+"EARNINGS IN THE PAST 12 MONTHS (IN 2023 INFLATION-ADJUSTED DOLLARS) FOR FULL-TIME, YEAR-ROUND WORKERS","$25,000 to $34,999","$25,000 to $34,999",1.3%,0.6%,0.7%,2.4%
+"EARNINGS IN THE PAST 12 MONTHS (IN 2023 INFLATION-ADJUSTED DOLLARS) FOR FULL-TIME, YEAR-ROUND WORKERS","$35,000 to $49,999","$35,000 to $49,999",6.8%,5.6%,12.5%,4.0%
+"EARNINGS IN THE PAST 12 MONTHS (IN 2023 INFLATION-ADJUSTED DOLLARS) FOR FULL-TIME, YEAR-ROUND WORKERS","$50,000 to $74,999","$50,000 to $74,999",12.0%,14.2%,12.8%,9.5%
+"EARNINGS IN THE PAST 12 MONTHS (IN 2023 INFLATION-ADJUSTED DOLLARS) FOR FULL-TIME, YEAR-ROUND WORKERS","$75,000 or more","$75,000 or more",78.2%,77.2%,72.4%,82.7%
+"EARNINGS IN THE PAST 12 MONTHS (IN 2023 INFLATION-ADJUSTED DOLLARS) FOR FULL-TIME, YEAR-ROUND WORKERS","Median earnings (dollars) for full-time, year-round workers","Median earnings (dollars) for full-time, year-round workers",,,,
+"EARNINGS IN THE PAST 12 MONTHS (IN 2023 INFLATION-ADJUSTED DOLLARS) FOR FULL-TIME, YEAR-ROUND WORKERS",Male,Male,"144,736","123,077","154,688","193,294"
+"EARNINGS IN THE PAST 12 MONTHS (IN 2023 INFLATION-ADJUSTED DOLLARS) FOR FULL-TIME, YEAR-ROUND WORKERS",Female,Female,"89,034","75,339","61,065","130,333"
+INCOME IN THE PAST 12 MONTHS (IN 2023 INFLATION-ADJUSTED DOLLARS),Households,Households,"5,858","2,139","1,515","2,204"
+INCOME IN THE PAST 12 MONTHS (IN 2023 INFLATION-ADJUSTED DOLLARS),With earnings,With earnings,93.8%,98.8%,100.0%,84.7%
+INCOME IN THE PAST 12 MONTHS (IN 2023 INFLATION-ADJUSTED DOLLARS),Mean earnings (dollars),Mean earnings (dollars),"208,054","154,873","169,783","299,346"
+INCOME IN THE PAST 12 MONTHS (IN 2023 INFLATION-ADJUSTED DOLLARS),With Social Security income,With Social Security income,6.7%,0.6%,4.0%,14.5%
+INCOME IN THE PAST 12 MONTHS (IN 2023 INFLATION-ADJUSTED DOLLARS),Mean Social Security income (dollars),Mean Social Security income (dollars),"26,375",N,"10,457","30,194"
+INCOME IN THE PAST 12 MONTHS (IN 2023 INFLATION-ADJUSTED DOLLARS),With Supplemental Security Income,With Supplemental Security Income,1.2%,0.0%,1.1%,2.5%
+INCOME IN THE PAST 12 MONTHS (IN 2023 INFLATION-ADJUSTED DOLLARS),Mean Supplemental Security Income (dollars),Mean Supplemental Security Income (dollars),"8,957",-,N,"9,263"
+INCOME IN THE PAST 12 MONTHS (IN 2023 INFLATION-ADJUSTED DOLLARS),With cash public assistance income,With cash public assistance income,0.2%,0.0%,0.6%,0.0%
+INCOME IN THE PAST 12 MONTHS (IN 2023 INFLATION-ADJUSTED DOLLARS),Mean cash public assistance income (dollars),Mean cash public assistance income (dollars),N,-,N,-
+INCOME IN THE PAST 12 MONTHS (IN 2023 INFLATION-ADJUSTED DOLLARS),With retirement income,With retirement income,9.0%,2.9%,0.5%,20.9%
+INCOME IN THE PAST 12 MONTHS (IN 2023 INFLATION-ADJUSTED DOLLARS),Mean retirement income (dollars),Mean retirement income (dollars),"40,012","11,585",N,"43,644"
+INCOME IN THE PAST 12 MONTHS (IN 2023 INFLATION-ADJUSTED DOLLARS),With Food Stamp/SNAP benefits,With Food Stamp/SNAP benefits,1.4%,0.0%,0.0%,3.7%
+INCOME IN THE PAST 12 MONTHS (IN 2023 INFLATION-ADJUSTED DOLLARS),Median Household income (dollars),Median Household income (dollars),"153,155","137,083","162,292","225,875"
+INCOME IN THE PAST 12 MONTHS (IN 2023 INFLATION-ADJUSTED DOLLARS),Average number of workers per household,Average number of workers per household,1.42,1.37,1.30,1.56
+POVERTY STATUS IN THE PAST 12 MONTHS,Population for whom poverty status is determined,Population for whom poverty status is determined,"12,014","4,947","2,848","4,219"
+POVERTY STATUS IN THE PAST 12 MONTHS,Below 100 percent of the poverty level,Below 100 percent of the poverty level,1.9%,1.6%,0.2%,3.3%
+POVERTY STATUS IN THE PAST 12 MONTHS,100 to 199 percent of the poverty level,100 to 199 percent of the poverty level,2.6%,1.9%,3.0%,3.2%
+POVERTY STATUS IN THE PAST 12 MONTHS,At or above 200 percent of the poverty level,At or above 200 percent of the poverty level,95.5%,96.4%,96.8%,93.5%
+POVERTY RATES FOR FAMILIES FOR WHOM POVERTY STATUS IS DETERMINED,All families,All families,1.8%,2.2%,0.5%,2.2%
+POVERTY RATES FOR FAMILIES FOR WHOM POVERTY STATUS IS DETERMINED,With related children of the householder under 18 years,With related children of the householder under 18 years,0.5%,0.7%,0.5%,0.0%
+POVERTY RATES FOR FAMILIES FOR WHOM POVERTY STATUS IS DETERMINED,With related children of the householder under 5 years only,With related children of the householder under 5 years only,1.4%,0.0%,7.6%,0.0%
+POVERTY RATES FOR FAMILIES FOR WHOM POVERTY STATUS IS DETERMINED,Married-couple family,Married-couple family,0.9%,2.2%,0.5%,0.0%
+POVERTY RATES FOR FAMILIES FOR WHOM POVERTY STATUS IS DETERMINED,With related children of the householder under 18 years,With related children of the householder under 18 years,0.5%,0.7%,0.6%,0.0%
+POVERTY RATES FOR FAMILIES FOR WHOM POVERTY STATUS IS DETERMINED,With related children of the householder under 5 years only,With related children of the householder under 5 years only,1.4%,0.0%,7.6%,0.0%
+POVERTY RATES FOR FAMILIES FOR WHOM POVERTY STATUS IS DETERMINED,"Female householder, no spouse present, family","Female householder, no spouse present, family",22.5%,0.0%,0.0%,37.6%
+POVERTY RATES FOR FAMILIES FOR WHOM POVERTY STATUS IS DETERMINED,With related children of the householder under 18 years,With related children of the householder under 18 years,0.0%,0.0%,0.0%,0.0%
+POVERTY RATES FOR FAMILIES FOR WHOM POVERTY STATUS IS DETERMINED,With related children of the householder under 5 years only,With related children of the householder under 5 years only,-,-,-,-
+POVERTY RATES FOR FAMILIES FOR WHOM POVERTY STATUS IS DETERMINED,Occupied housing units,Occupied housing units,"5,858","2,139","1,515","2,204"
+HOUSING TENURE,Owner-occupied housing units,Owner-occupied housing units,54.3%,23.7%,64.4%,77.0%
+HOUSING TENURE,Renter-occupied housing units,Renter-occupied housing units,45.7%,76.3%,35.6%,23.0%
+HOUSING TENURE,Average household size of owner-occupied unit,Average household size of owner-occupied unit,2.90,3.39,2.76,2.83
+HOUSING TENURE,Average household size of renter-occupied unit,Average household size of renter-occupied unit,2.47,2.50,2.75,2.05
+ROOMS,1 room,1 room,7.6%,10.6%,7.3%,4.9%
+ROOMS,2 or 3 rooms,2 or 3 rooms,23.0%,45.5%,12.6%,8.3%
+ROOMS,4 or 5 rooms,4 or 5 rooms,26.6%,28.8%,29.3%,22.5%
+ROOMS,6 or 7 rooms,6 or 7 rooms,16.3%,5.0%,30.8%,17.5%
+ROOMS,8 or more rooms,8 or more rooms,26.5%,10.2%,20.1%,46.7%
+ROOMS,Median number of rooms,Median number of rooms,4.7,3.3,5.5,7.1
+ROOMS,1.01 or more occupants per room,1.01 or more occupants per room,8.9%,17.7%,4.0%,3.8%
+VEHICLES AVAILABLE,None,None,4.0%,7.2%,1.3%,2.7%
+VEHICLES AVAILABLE,1 or more,1 or more,96.0%,92.8%,98.7%,97.3%
+SELECTED CHARACTERISTICS,No telephone service available,No telephone service available,0.0%,0.0%,0.0%,0.0%
+SELECTED CHARACTERISTICS,Limited English Speaking Households,Limited English Speaking Households,18.2%,22.7%,26.7%,8.1%
+SELECTED CHARACTERISTICS,Owner-occupied housing units,Owner-occupied housing units,"3,178",506,976,"1,696"
+SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS,Less than 30 percent,Less than 30 percent,78.3%,82.0%,65.1%,84.8%
+SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS,30 percent or more,30 percent or more,21.7%,18.0%,34.9%,15.2%
+SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS,Renter-occupied housing units,Renter-occupied housing units,"2,680","1,633",539,508
+GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS,Less than 30 percent,Less than 30 percent,79.3%,84.6%,68.5%,73.8%
+GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME IN THE PAST 12 MONTHS,30 percent or more,30 percent or more,20.7%,15.4%,31.5%,26.2%
